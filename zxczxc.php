@@ -1,1 +1,0 @@
-{"clients":5,"gametype":"Freeroam","hostname":"^1[VIETNAM] ^2XĂ“M TUI ROLEPLAY | ^3FREE | ^4Thá»i Trang | ^5Giáº£i TrĂ­ | ^6Há»— Trá»£ Newbie","iv":"322656731","mapname":"fivem-map-hipster","sv_maxclients":"5"}
